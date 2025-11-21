@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![C++](https://img.shields.io/badge/C++-17-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen.svg)
 
 > **Production-grade algorithmic trading system** combining Machine Learning predictions (Python) with high-performance backtesting (C++17) through REST API architecture.
