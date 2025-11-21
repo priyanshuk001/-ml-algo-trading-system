@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.pkl
+*.log
+
+# C++ Build files
+build/
+bin/
+lib/
+*.exe
+*.obj
+*.o
+*.dll
+*.a
+*.lib
+*.pdb
+*.ilk
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+trades.csv
+*.csv
+!sample_AAPL.csv
+model.pkl
+
+# vcpkg
+vcpkg/
+vcpkg_installed/
